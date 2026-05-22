@@ -79,7 +79,7 @@ Run the script:
 WARNING_THRESHOLD=90
 CRITICAL_THRESHOLD=95
 
-EMAIL_TO="playplaystore330@gmail.com"
+EMAIL_TO="testmail@.com"
 
 # How often the script checks CPU usage
 CHECK_INTERVAL_SECONDS=10
